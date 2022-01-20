@@ -7,6 +7,14 @@
 	background-color: #da8a8a;
 }
 
+
+.stripe1{
+background-color: #BAFFB4;
+}
+
+.stripe2{
+background-color: #AEFEFF;
+}
 table {
  color: #111;
  border-radius: 5px;
@@ -26,3 +34,5 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+
